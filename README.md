@@ -43,9 +43,12 @@ python train.py config/train_xxxxxx_char.py
 python sample.py --out_dir=out-xxx
 📊 实验结果
 🏮## 唐诗生成效果
-![唐诗生成](./assets/tang.png)
+![唐诗生成]
+<img width="886" height="893" alt="tang" src="https://github.com/user-attachments/assets/36f065a3-2711-433b-b782-837d84916097" />
 ## 小说生成效果
-![小说生成](./assetsxiaoshuo.png)
+![小说生成]
+<img width="891" height="829" alt="xiaoshuo" src="https://github.com/user-attachments/assets/d3e11c12-8b5c-45cd-be3a-9a9c5aecdc6b" />
+
 结果分析
 能生成类似古诗的句式结构（短句 + 意象词）
 具备一定“诗意表达”能力
