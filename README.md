@@ -22,7 +22,7 @@
 - PyTorch 2.1
 - CUDA（可选）
 
-```bash
+
 📂 项目结构
 .
 ├── data/                # 数据集
